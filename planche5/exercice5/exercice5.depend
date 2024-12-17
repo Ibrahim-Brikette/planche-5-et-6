@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1733513990 source:d:\cpp\les planches d'exercices\planche5\exercice5\main.cpp
+	<iostream>
+	"cercle.h"
+
+1733512406 source:d:\cpp\les planches d'exercices\planche5\exercice5\src\point.cpp
+	"point.h"
+
+1733512406 d:\cpp\les planches d'exercices\planche5\exercice5\include\point.h
+
+1733513880 source:d:\cpp\les planches d'exercices\planche5\exercice5\src\cercle.cpp
+	"cercle.h"
+	"point.h"
+	<iostream>
+	<cmath>
+
+1733513880 d:\cpp\les planches d'exercices\planche5\exercice5\include\cercle.h
+	"point.h"
+
+1733515082 source:d:\cpp\les planches d'exercices\planche5 exercice12 interminé + exercice 3 non fait\exercice5\src\cercle.cpp
+	"cercle.h"
+	"point.h"
+	<iostream>
+	<cmath>
+
+1733513880 d:\cpp\les planches d'exercices\planche5 exercice12 interminé + exercice 3 non fait\exercice5\include\cercle.h
+	"point.h"
+
+1733512406 d:\cpp\les planches d'exercices\planche5 exercice12 interminé + exercice 3 non fait\exercice5\include\point.h
+
+1733515082 source:d:\cpp\les planches d'exercices\planche5 exercice12 interminé + exercice 3 non fait\exercice5\src\point.cpp
+	"point.h"
+
+1733515102 source:d:\cpp\les planches d'exercices\planche5 exercice12 interminé + exercice 3 non fait\exercice5\main.cpp
+	<iostream>
+	"cercle.h"
+

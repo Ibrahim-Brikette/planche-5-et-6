@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1732870955 source:d:\cpp\les planches d'exercices\planche5\exercice2\main.cpp
+	<iostream>
+	"vecteur2d.h"
+
+1732870205 d:\cpp\les planches d'exercices\planche5\exercice2\vecteur2d.h
+
+1732870395 source:d:\cpp\les planches d'exercices\planche5\exercice2\vecteur2d.cpp
+	<iostream>
+	<cmath>
+	"vecteur2d.h"
+

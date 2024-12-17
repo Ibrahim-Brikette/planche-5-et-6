@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1733471106 source:d:\cpp\les planches d'exercices\planche6\ vehicule\main.cpp
+	<iostream>
+	<string>
+	<camion.h>
+	<voiture.h>
+	<vehicule.h>
+
+1733472100 source:d:\cpp\les planches d'exercices\planche6\ vehicule\src\vehicule.cpp
+	"vehicule.h"
+	<iostream>
+
+1733469877 d:\cpp\les planches d'exercices\planche6\ vehicule\include\vehicule.h
+	<string>
+
+1733471524 source:d:\cpp\les planches d'exercices\planche6\ vehicule\src\camion.cpp
+	"camion.h"
+	<iostream>
+	<string>
+
+1733472144 d:\cpp\les planches d'exercices\planche6\ vehicule\include\camion.h
+	"vehicule.h"
+	<string>
+
+1733472100 d:\cpp\les planches d'exercices\planche6\ vehicule\include\voiture.h
+	"vehicule.h"
+
+1733472100 source:d:\cpp\les planches d'exercices\planche6\ vehicule\src\voiture.cpp
+	"voiture.h"
+	<iostream>
+	<string>
+

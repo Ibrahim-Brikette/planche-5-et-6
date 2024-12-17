@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1733477768 source:d:\cpp\les planches d'exercices\planche6\piece\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"piece.h"
+	"pion.h"
+	"roi.h"
+
+1733477243 source:d:\cpp\les planches d'exercices\planche6\piece\src\piece.cpp
+	"piece.h"
+	<string>
+
+1733477243 d:\cpp\les planches d'exercices\planche6\piece\include\piece.h
+	<string>
+
+1733477392 source:d:\cpp\les planches d'exercices\planche6\piece\src\pion.cpp
+	"pion.h"
+	<string>
+	<iostream>
+
+1733477314 d:\cpp\les planches d'exercices\planche6\piece\include\pion.h
+	"piece.h"
+
+1733477545 source:d:\cpp\les planches d'exercices\planche6\piece\src\roi.cpp
+	"roi.h"
+	<string>
+	<cmath>
+	<iostream>
+
+1733477524 d:\cpp\les planches d'exercices\planche6\piece\include\roi.h
+	"piece.h"
+	<string>
+

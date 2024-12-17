@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1733493056 source:d:\cpp\les planches d'exercices\planche5\exercice4\main.cpp
+	<iostream>
+	"complexe.h"
+	<string>
+
+1733492953 source:d:\cpp\les planches d'exercices\planche5\exercice4\src\complexe.cpp
+	"complexe.h"
+	<string>
+	<iostream>
+	<cmath>
+
+1733492930 d:\cpp\les planches d'exercices\planche5\exercice4\include\complexe.h
+	<string>
+

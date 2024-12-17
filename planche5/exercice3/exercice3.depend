@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1734425281 source:d:\cpp\les planches d'exercices\planche5\exercice3\main.cpp
+	<iostream>
+	"point.h"
+
+1734424924 source:d:\cpp\les planches d'exercices\planche5\exercice3\src\point.cpp
+	"point.h"
+
+1734424359 d:\cpp\les planches d'exercices\planche5\exercice3\include\point.h
+	<iostream>
+	<cmath>
+
