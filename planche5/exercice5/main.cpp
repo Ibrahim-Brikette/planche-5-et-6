@@ -15,7 +15,7 @@ int main()
     surC=c.calculeSurface();
     periC=c.calculerPerimetre();
     cout<<"le perimetre de cette cercle est "<<periC<<" et son surface est "<<surC<<endl;
-    c.deplacer(10,10);
+    c.deplacer(-10,-10);
     c.afficher();
     c.appartient(point(1,1));
     c.appartient(point(3,3));
