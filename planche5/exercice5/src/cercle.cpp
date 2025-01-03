@@ -6,7 +6,7 @@
 cercle::cercle(double r ,point p):rayon(r),centre(p){}
 cercle::cercle(double r,double x,double y):rayon(r), centre(x,y){}
 void cercle::afficher()const{
-    std::cout<<"la cercle de rayon "<<rayon<<" son centre de cordonnée "<<centre.getX()<<","<<centre.getY()<<std::endl;
+    std::cout<<"la cercle de rayon "<<rayon<<" son centre de cordonnÃ©e "<<centre.getX()<<","<<centre.getY()<<std::endl;
 
 
 
@@ -25,8 +25,8 @@ point cercle::getCentre()const{
 
 }
 void cercle::deplacer(double dx,double dy){
-    centre.setX(centre.getX()-dx);
-    centre.setY(centre.getY()-dy);
+    centre.setX(centre.getX()+dx);
+    centre.setY(centre.getY()+dy);
 
 }
 double cercle::calculeSurface()const{
@@ -48,7 +48,7 @@ void cercle::egale(const cercle& ctre){
 }
 void cercle::appartient(const point& p){
     double x=p.getX()-centre.getX();double y=p.getY()-centre.getY();
-    if(( sqrt(x*x+y*y)<=2*rayon))
+    if(( sqrt(x*x+y*y)<=rayon))
         std::cout<<"la point "<<"("<<p.getX()<<","<<p.getY()<<")"<<" appartient a la cercle"<<std::endl;
     else
         std::cout<<"la point "<<"("<<p.getX()<<","<<p.getY()<<")"<<" n'appartient pas a la cercle"<<std::endl;
